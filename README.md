@@ -6,6 +6,7 @@ The CMOS Nand Gate Schematic creation , Simulation and Layout Creation using Cad
 + Simulation :Cadence Virtuoso - ADE L
 + Layout : Cadence Virtuoso - Layout XL
 + Technology : gpdk90
+  
 Verification tool :Assura All DRC's were cleared and the design met LVS.
 # NOR Schematic 
 ![image](https://github.com/VishwajithVPai/CMOS_NOR_GATE_cadence_virtuoso/assets/130815256/cecb3104-d12d-4ac0-93a4-9812599b339d)
