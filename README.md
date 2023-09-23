@@ -1,0 +1,1 @@
+# CMOS_NOR_GATE_cadence_virtuoso
