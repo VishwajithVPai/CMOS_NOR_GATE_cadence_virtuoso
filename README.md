@@ -15,7 +15,7 @@ Verification tool :Assura All DRC's were cleared and the design met LVS.
 # Transient Analysis
 ![image](https://github.com/VishwajithVPai/CMOS_NOR_GATE_cadence_virtuoso/assets/130815256/6c706ee5-b8f8-4ecf-bf9b-1fca5f5750f3)
 # NOR Layout
-![image](https://github.com/VishwajithVPai/CMOS_NOR_GATE_cadence_virtuoso/assets/130815256/fe4fc175-fd05-471c-bd47-d1cde968553a)
+![image](https://github.com/VishwajithVPai/CMOS_NOR_GATE_cadence_virtuoso/assets/130815256/111af1b4-28df-4b15-b0e1-c02e3a7b8105)
 # Result
 ![image](https://github.com/VishwajithVPai/CMOS_NOR_GATE_cadence_virtuoso/assets/130815256/0722a847-eef1-4e92-8920-32ab0d2235d1)
 ![image](https://github.com/VishwajithVPai/CMOS_NOR_GATE_cadence_virtuoso/assets/130815256/0fec8767-6400-45b2-9fe8-5c7332a26c79)
