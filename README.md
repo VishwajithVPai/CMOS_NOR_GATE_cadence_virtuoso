@@ -1,6 +1,6 @@
 # CMOS_NOR_GATE_cadence_virtuoso
 The CMOS Nand Gate Schematic creation , Simulation and Layout Creation using Cadence Virtuoso.
-2-input NOR gate using 2x1 mux: Figure 1 below shows the truth table of a 2-input NOR gate. If we observe carefully, OUT equal B' when A is '0'. Similarly, OUT equals '0' when A is '1'. So, we can make a 2-input mux act like a 2-input NOR gate, if we connect SEL of mux to A, D0 to B' and D1 to '0'.
+The NOR gate is a digital logic gate that implements logical NOR - it behaves according to the truth table to the right. A HIGH output (1) results if both the inputs to the gate are LOW (0); if one or both input is HIGH (1), a LOW output (0) results.
 # Tools Used
 + Schematic : Cadence Virtuoso - Schematic XL
 + Simulation :Cadence Virtuoso - ADE L
